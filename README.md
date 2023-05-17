@@ -1,5 +1,21 @@
 # Basics of Embedded Systems - Course project report
 
+## Table of contents
+- [Basics of Embedded Systems - Course project report](#basics-of-embedded-systems---course-project-report)
+  - [Table of contents](#table-of-contents)
+  - [Project description](#project-description)
+  - [Methodolgy](#methodolgy)
+    - [Master device](#master-device)
+    - [Slave device](#slave-device)
+  - [Improvement ideas](#improvement-ideas)
+  - [Conclusion](#conclusion)
+
+Author: Ilmari Vahteristo, 0545212
+
+Date: 17.05.2023
+
+Video demonstration of the system: [https://youtu.be/bkUoML3KCCM](https://youtu.be/bkUoML3KCCM)
+
 ## Project description
 The aim of the project, was create an alarm system using 2 boards: Arduino UNO and Arduino Mega. 
 The project required, that either of devices is the 'slave' device and the other is the 'master' device.
